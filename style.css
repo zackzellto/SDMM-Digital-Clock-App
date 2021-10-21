@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+.titleSection{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-weight: 200;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#clockTime{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:160px;
+    color: blue;
+    font-weight: 400;
+}
+
+#clockDate {
+    letter-spacing:10px;
+    text-align: center;
+    font-size:54px;
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+}
